@@ -1,0 +1,12 @@
+[submodule "ttf-google-fonts-git"]
+	path = ttf-google-fonts-git
+	url = https://aur.archlinux.org/ttf-google-fonts-git.git
+[submodule "vivaldi"]
+	path = vivaldi
+	url = https://aur.archlinux.org/vivaldi.git
+[submodule "vivaldi-ffmpeg-codecs"]
+	path = vivaldi-ffmpeg-codecs
+	url = https://aur.archlinux.org/vivaldi-ffmpeg-codecs.git
+[submodule "zoom"]
+	path = zoom
+	url = https://aur.archlinux.org/zoom.git
