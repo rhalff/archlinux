@@ -10,3 +10,15 @@
 [submodule "zoom"]
 	path = zoom
 	url = https://aur.archlinux.org/zoom.git
+[submodule "virtualbox-ext-oracle"]
+	path = virtualbox-ext-oracle
+	url = https://aur.archlinux.org/virtualbox-ext-oracle.git
+[submodule "plymouth-git"]
+	path = plymouth-git
+	url = https://aur.archlinux.org/plymouth-git.git
+[submodule "google-chrome"]
+	path = google-chrome
+	url = https://aur.archlinux.org/google-chrome.git
+[submodule "webstorm"]
+	path = webstorm
+	url = https://aur.archlinux.org/webstorm.git
