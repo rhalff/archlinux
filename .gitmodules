@@ -22,3 +22,6 @@
 [submodule "webstorm"]
 	path = webstorm
 	url = https://aur.archlinux.org/webstorm.git
+[submodule "gitbook-editor"]
+	path = gitbook-editor
+	url = https://aur.archlinux.org/gitbook-editor.git
