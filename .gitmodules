@@ -25,3 +25,6 @@
 [submodule "gitbook-editor"]
 	path = gitbook-editor
 	url = https://aur.archlinux.org/gitbook-editor.git
+[submodule "ubuntu-device-flash"]
+	path = ubuntu-device-flash
+	url = https://aur.archlinux.org/ubuntu-device-flash.git
